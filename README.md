@@ -4,7 +4,7 @@ This project is a dynamic menu website for an Asian kitchen. It showcases differ
 
 ## Live Demo
 
-You can view the live demo [here](#).
+You can view the live demo [here](https://ardacanbakis.github.io/asianKitchen/).
 
 ## Preview
 ![Preview](https://i.imgur.com/jNkFB1U.png)
