@@ -1,6 +1,6 @@
 # Asian Kitchen Project
 
-This project is a dynamic menu website for an Asian kitchen. It showcases different dishes from Korean, Japanese, and Chinese cuisines. The website allows users to filter dishes by cuisine type and includes a dark/light theme toggle for better user experience.
+This project is a dynamic menu website for a restaurant. It showcases different dishes from Korean, Japanese, and Chinese cuisines. The website allows users to filter dishes by cuisine type and includes a dark/light theme toggle for better user experience.
 
 ## Live Demo
 
